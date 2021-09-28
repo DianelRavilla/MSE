@@ -1,0 +1,10 @@
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\bin\Debug\Maths For Sound Engeeniering.exe.config
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\bin\Debug\Maths For Sound Engeeniering.exe
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\bin\Debug\Maths For Sound Engeeniering.pdb
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths For Sound Engeeniering.csprojAssemblyReference.cache
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths_For_Sound_Engeeniering.Form1.resources
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths_For_Sound_Engeeniering.Properties.Resources.resources
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths For Sound Engeeniering.csproj.GenerateResource.cache
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths For Sound Engeeniering.csproj.CoreCompileInputs.cache
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths For Sound Engeeniering.exe
+C:\Users\user\Projectos\Programas\MSE\Maths For Sound Engeeniering\obj\Debug\Maths For Sound Engeeniering.pdb
